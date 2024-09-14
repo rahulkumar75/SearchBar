@@ -1,4 +1,4 @@
-# TypeAhead SearchBar
+# TYPE-AHEAD SearchBar
 ![image](https://github.com/user-attachments/assets/00edecf7-1aa1-428c-8d70-c86713b8d275)
 
 
