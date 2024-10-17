@@ -1,5 +1,5 @@
 # TYPE-AHEAD SearchBar
-# Live Demo: searchadv.vercel.app/
+# Live Demo: [searchadv.vercel.app/](https://searchadv.vercel.app/)
 
 
 
